@@ -1,32 +1,32 @@
 // values.js
 
 // Основные данные 
-var fio               = "Иванов Иван Иванович";
-var fio_en            = "Ivanov Ivan";
-var birth             = "01.01.2000"; //дата рождения
-var date_give         = "01.01.2020"; //Дата видачи
-var date_out          = "01.01.2030"; // действителен до
-var organ             = "Шевченковский РОВД ХО"; //орган что выдал документ
-var rnokpp            = "1234567890"; //ИНН
-var uznr              = "106947"; //Номер записи
-var pass_number       = "008759371"; //номер паспорта
+var fio               = "Васильев Иван Дмитриевич";
+var fio_en            = "Vasyliev lvan";
+var birth             = "30.08.2004"; //дата рождения
+var date_give         = "28.03.2019"; //Дата выдачи паспорта
+var date_out          = "28.03.2023"; // действителен до
+var organ             = "2312"; //орган что выдал документ
+var rnokpp            = "3822804331"; //ИНН
+var uznr              = "20040830-09130"; //Номер записи
+var pass_number       = "003176428"; //номер паспорта
 
-var registeredOn      = "13.05.2024"; //дата регистрации
+var registeredOn      = "15.05.2024"; //дата регистрации
 
 // Прописка
-var legalAdress       = "м. Киев, вул. Свободи, 14"; //Место проживание
-var live              = "м. Харьков"; //Место рождение 
-var bank_adress       = "м. Харьков, вул. Героїв, 123"; //Место жительства указано в банке
+var legalAdress       = "3anopiзькa область, 3anopiзькa район, селище Балабине, вул. Миру, буд. 119"; //Место проживание
+var live              = "Cелище Балабине"; //Место рождение 
+var bank_adress       = "Cелище Балабине, вул. Миру, буд. 119"; //Место жительства указано в банке
 
 var sex               = "Ч";
 var sex_en            = "M";
 
 // Данные для Прав
 var rights_categories = "A, B"; //Категории
-var prava_number      = "AB123456"; // номер прав
-var prava_date_give   = "01.01.2020"; //Дата выдачи Прав
-var prava_date_out    = "01.01.2030"; //Действителен ДО
-var pravaOrgan        = "ТСЦ 6345 МВС України"; //орган который выдал
+var prava_number      = "GE657244"; // номер прав
+var prava_date_give   = "17.12.2022"; //Дата выдачи Прав
+var prava_date_out    = "17.12.2052"; //Действителен ДО
+var pravaOrgan        = "ТСЦ 8044"; //орган который выдал
 
 
 
@@ -51,7 +51,7 @@ var student_date_out  = "30.06.2025";
 
 // Включение/выключение документов
 var isRightsEnabled   = true;
-var isStudyEnabled    = true;
+var isStudyEnabled    = false;
 var isZagranEnabled   = false;
 var isDiplomaEnabled  = false;
 // Добавь остальные переменные по аналогии
