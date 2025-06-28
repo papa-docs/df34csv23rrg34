@@ -61,7 +61,7 @@ var isDiplomaEnabled  = false;
 var photo_passport = "clients/1/1.png"; //эДок, паспорт,
 var photo_rights   = "clients/1/4.png?timestamp=1"; //права
 var photo_students = "clients/1/1.png"; //диплом, студ
-var photo_zagran   = "clients/1/1.png"; //загран
+var photo_zagran   = "clients/1/5.png"; //загран
 
 var signPng           = "clients/1/sign.png"; //подпись
 // Можно добавить еще, если надо
