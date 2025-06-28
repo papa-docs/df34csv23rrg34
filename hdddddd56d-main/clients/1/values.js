@@ -58,10 +58,10 @@ var isDiplomaEnabled  = false;
 
 // Пути к нужным фото    ?timestamp=N   "photo.jpg?timestamp=N" динамически: var url = "photo.jpg?timestamp=" + N;
 
-var photo_passport = "clients/1/owner-image.png"; //эДок, паспорт,
-var photo_rights   = "clients/1/owner-image.png"; //права
-var photo_students = "clients/1/photo_passport"; //диплом, студ
-var photo_zagran   = "clients/1/photo_zagran.jpg"; //загран
+var photo_passport = "clients/1/1.png"; //эДок, паспорт,
+var photo_rights   = "clients/1/2.png"; //права
+var photo_students = "clients/1/1.png"; //диплом, студ
+var photo_zagran   = "clients/1/1.png"; //загран
 
 var signPng           = "clients/1/sign.png"; //подпись
 // Можно добавить еще, если надо
