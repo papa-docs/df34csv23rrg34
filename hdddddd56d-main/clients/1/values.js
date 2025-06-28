@@ -52,7 +52,7 @@ var student_date_out  = "30.06.2025";
 // Включение/выключение документов
 var isRightsEnabled   = true;
 var isStudyEnabled    = false;
-var isZagranEnabled   = false;
+var isZagranEnabled   = true;
 var isDiplomaEnabled  = false;
 // Добавь остальные переменные по аналогии
 
