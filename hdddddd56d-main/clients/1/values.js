@@ -41,7 +41,7 @@ var form              = "Очная";
 
 
 
-var zagran_number     = "FP9087236";
+var zagran_number     = "GK511812";
 
 var student_number    = "2022154258";
 var student_date_give = "01.09.2021";
